@@ -1,0 +1,6 @@
+{
+  "pdf_dir": "D:\\empathy-for-learning\\Backend\\data\\skills_pdfs",
+  "chunks": 113,
+  "embedding_dim": 384,
+  "index_dir": "D:\\empathy-for-learning\\Backend\\data\\vector_index"
+}

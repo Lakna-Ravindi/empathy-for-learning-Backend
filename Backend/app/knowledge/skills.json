@@ -1,0 +1,188 @@
+[
+  {
+    "skill": "Calming the Body and Mind",
+    "description": "Helps users recognize body sensations, regulate emotions, and return to a calm resilient state using body literacy and regulation tools.",
+    "emotions": ["stress", "anxiety", "panic", "overwhelmed", "nervous", "fear", "emotional overload", "irritated", "numb"],
+    "concepts": ["body literacy", "sensation words", "resilient zone", "dysregulation", "sympathetic nervous system", "parasympathetic nervous system", "tracking", "grounding", "resourcing"],
+    "resilient_zone": {
+      "definition": "A state of equilibrium where we feel balanced and capable of dealing with stressful or traumatic experiences.",
+      "examples": ["Staying calm during a tough exam", "Not losing temper in a heated argument", "Managing anxiety before a big presentation"],
+      "out_of_zone_signs": ["stuck on high (on edge)", "stuck on low (depressed, tired)", "roller coaster states", "panic", "numbness"]
+    },
+    "nervous_system": {
+      "sympathetic": "Activates fight/flight response during stress.",
+      "parasympathetic": "Helps us relax, recover, and return to calm."
+    },
+    "tools": {
+      "tracking": "Noticing internal sensations and determining if they are pleasant, unpleasant, or neutral.",
+      "grounding": "Focusing on physical contact with body and objects for stability.",
+      "resourcing": "Visualizing a person, place, memory, or thing that creates calm and strength."
+    },
+    "activities": ["palms rubbing sensation practice", "chair/feet grounding", "resource visualization", "body sensation journaling"],
+    "responses": [
+      "You're safe right now. Try slowing your breathing.",
+      "Focus on your feet on the ground or hands on your lap.",
+      "Notice what sensations are present in your body gently.",
+      "Bring to mind a calming memory or place."
+    ],
+    "videos": [],
+    "quiz": [],
+    "ai_guidance": {
+      "tone": "calm, supportive, non-judgmental",
+      "style": "SEEK emotional coaching approach",
+      "rules": ["Always respond with empathy first", "Do not diagnose mental health conditions", "Use grounding techniques when stress is detected", "Encourage body awareness before advice", "Use simple language"]
+    },
+    "fallback_responses": [
+      "You're not alone. Let's slow down together.",
+      "Take a deep breath and notice your surroundings.",
+      "It's okay to feel this way. Let's ground your body."
+    ]
+  },
+  {
+    "skill": "Ethical Mindfulness",
+    "description": "Develops the ability to act according to core values even under stress through heedfulness, mindfulness, awareness, and attention stability.",
+    "emotions": ["anger", "regret", "embarrassment", "impulse", "aggression"],
+    "concepts": ["ethical mindfulness", "heedfulness", "mindfulness", "awareness", "attention stability", "values alignment"],
+    "tools": {
+      "heedfulness": "Being extremely careful to avoid harmful speech and actions (sesame oil metaphor).",
+      "mindfulness": "Intentionally remembering values during stress.",
+      "awareness": "Being conscious of present-moment thoughts and actions."
+    },
+    "activities": ["social media anger reflection", "impulse buying reflection", "team aggression reflection"],
+    "responses": ["Pause and remember your core values before responding.", "Take a breath and ask: Does this align with who I want to be?"],
+    "ai_guidance": {
+      "tone": "balanced, value-centered",
+      "style": "SEEK ethical coaching",
+      "rules": ["Help user align actions with values", "Encourage pause before reaction"]
+    },
+    "fallback_responses": [
+      "When in doubt, pause — your values are always there to guide you.",
+      "It's okay if you didn't act perfectly. What matters is what you choose next.",
+      "Let's gently reflect: what would your best self do in this moment?",
+      "Even small moments of awareness are a step toward acting with integrity."
+    ]
+  },
+  {
+    "skill": "Emotional Awareness",
+    "description": "Builds ability to observe emotions and mental states clearly, create space between trigger and response, and prevent emotional escalation.",
+    "emotions": ["anger", "gratitude", "jealousy", "resentment", "anxiety"],
+    "concepts": ["emotional awareness", "beneficial vs harmful mental states", "spark model", "precondition", "perception database", "selective filtering"],
+    "tools": {
+      "spark_model": "Precondition → Event → Perception → Trigger → Emotional Response → Action"
+    },
+    "activities": ["daily emotion check-in", "classify emotions", "5-second pause practice"],
+    "responses": ["What emotion are you noticing right now?", "Can you create a small pause before responding?"],
+    "ai_guidance": {
+      "tone": "observant and gentle",
+      "style": "SEEK awareness coaching"
+    },
+    "fallback_responses": [
+      "It's okay if you can't name the feeling right now — just noticing that something is there is a good start.",
+      "Emotions can feel complex. Let's slow down and explore what's coming up for you.",
+      "You don't have to have it all figured out. Simply observing your inner state is powerful.",
+      "Whatever you're feeling is valid. Let's gently look at it together."
+    ]
+  },
+  {
+    "skill": "Self Compassion",
+    "description": "Helps overcome thinking traps, perfectionism, and self-criticism to build healthier self-relationship and emotional well-being.",
+    "emotions": ["self-criticism", "perfectionism", "inferiority", "superiority", "unrealistic pressure"],
+    "concepts": ["self-compassion", "thinking traps", "hedonic treadmill", "unrealistic expectations", "superiority/inferiority bias", "perfectionism", "worldly concerns"],
+    "tools": {
+      "letter_to_friend": "Writing supportive words to self as to a friend"
+    },
+    "activities": ["aspiration vs expectation reflection", "letter to friend activity"],
+    "ai_guidance": {
+      "tone": "warm, kind, understanding",
+      "style": "SEEK self-compassion coaching"
+    },
+    "fallback_responses": [
+      "You deserve the same kindness you would offer a good friend.",
+      "Struggling doesn't mean you're failing — it means you're human.",
+      "Try speaking to yourself the way you'd comfort someone you love.",
+      "It's okay to not be perfect. Growth and self-kindness can coexist."
+    ]
+  },
+  {
+    "skill": "Impartiality and Common Humanity",
+    "description": "Reduces bias, stereotypes, and prejudice by recognizing shared human experiences and practicing impartial compassion.",
+    "emotions": ["bias", "prejudice", "in-group favoritism"],
+    "concepts": ["bias", "in-group bias", "stereotypes", "prejudice", "impartiality", "common humanity"],
+    "tools": {
+      "who_are_you_activity": "Mind map identity with and without social labels"
+    },
+    "activities": ["who are you mind map", "identity reflection"],
+    "ai_guidance": {
+      "tone": "inclusive and fair",
+      "style": "SEEK impartiality coaching"
+    },
+    "fallback_responses": [
+      "We all carry biases — noticing them is the first step toward fairness.",
+      "Beneath our differences, we share the same wish to be happy and free from suffering.",
+      "Try seeing this person or group through the lens of our shared humanity.",
+      "It's a lifelong practice. Every moment of openness counts."
+    ]
+  },
+  {
+    "skill": "Forgiveness and Gratitude",
+    "description": "Cultivates forgiveness by letting go of resentment and builds gratitude to improve emotional well-being and relationships.",
+    "emotions": ["resentment", "anger", "gratitude", "bitterness"],
+    "concepts": ["forgiveness", "gratitude", "reductive thinking", "fundamental attribution error", "naikan practice", "interdependence"],
+    "tools": {
+      "naikan": "Three questions: What did I receive? What did I give? What trouble did I cause?"
+    },
+    "activities": ["forgiveness reflection on past incident", "naikan gratitude practice"],
+    "ai_guidance": {
+      "tone": "gentle and healing",
+      "style": "SEEK forgiveness & gratitude coaching"
+    },
+    "fallback_responses": [
+      "Forgiveness is a gift you give yourself — it doesn't mean what happened was okay.",
+      "Even one small thing to be grateful for can shift how we feel right now.",
+      "Letting go of resentment is a process. Be patient with yourself.",
+      "Gratitude doesn't erase pain — it helps us see the full picture of our lives."
+    ]
+  },
+  {
+    "skill": "Empathic Concern",
+    "description": "Develops healthy empathy by distinguishing affective/cognitive empathy, avoiding empathic distress, and cultivating sympathetic joy.",
+    "emotions": ["empathic distress", "envy", "emotional contagion", "burnout"],
+    "concepts": ["empathy", "affective empathy", "cognitive empathy", "empathic distress", "sympathetic joy", "in-group bias", "one-over-many effect"],
+    "tools": {
+      "common_humanity": "Expanding care beyond in-group",
+      "sympathetic_joy": "Celebrating others' success"
+    },
+    "activities": ["gratitude for others' success", "grounding when overwhelmed"],
+    "ai_guidance": {
+      "tone": "caring yet balanced",
+      "style": "SEEK empathic concern coaching"
+    },
+    "fallback_responses": [
+      "Caring deeply for others is a strength — just remember to care for yourself too.",
+      "If you're feeling overwhelmed by others' pain, it's okay to step back and ground yourself.",
+      "You can hold space for someone's suffering without losing yourself in it.",
+      "Empathy is a skill that grows with practice and self-awareness."
+    ]
+  },
+  {
+    "skill": "Compassion",
+    "description": "Cultivates genuine compassion as a strength, with clear boundaries, agency, and action across wishing, aspiring, and engaged levels.",
+    "emotions": ["apathy", "powerlessness", "compassion fatigue"],
+    "concepts": ["compassion", "thinking traps to compassion", "noticing suffering", "empathic concern", "sense of agency", "wishing/aspiring/engaged compassion"],
+    "tools": {
+      "three_components": "Noticing suffering + Empathic concern + Sense of agency",
+      "three_levels": "Wishing → Aspiring → Engaged compassion"
+    },
+    "activities": ["personal compassion mapping", "balancing self and others compassion"],
+    "ai_guidance": {
+      "tone": "wise and courageous",
+      "style": "SEEK compassion coaching"
+    },
+    "fallback_responses": [
+      "Compassion begins with simply noticing that suffering exists — yours or another's.",
+      "You don't have to fix everything. Even a small act of care makes a difference.",
+      "If compassion feels heavy right now, start with wishing others well from a distance.",
+      "Boundaries and compassion can coexist — caring wisely is still caring deeply."
+    ]
+  }
+]
