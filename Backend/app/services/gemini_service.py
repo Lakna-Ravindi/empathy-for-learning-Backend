@@ -8,7 +8,7 @@ import logging
 import random
 import time
 import uuid
-from google import genai
+import google.genai as genai
 from typing import Dict, Any, List, Optional
 from app.core.config import GOOGLE_API_KEY, GEMINI_MODEL
 
