@@ -1,1 +1,0 @@
-"""Classification rules for extracted PDF blocks."""
